@@ -1,2 +1,3 @@
-# OOP_labs
-Laboratory work on the course of Object-Oriented Programming
+# Coursework
+
+Simple game on C++ using SFML
